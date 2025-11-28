@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+numpy
+scikit-learn
+torch
+torch-geometric
+lightgbm
+shap
+matplotlib
+seaborn
+networkx
