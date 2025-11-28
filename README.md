@@ -25,3 +25,11 @@ Graph Neural Networks (GCN, GraphSAGE, GAT) and traditional ML (RandomForest, Li
 =======
 Intrusion-Detection
  7fe951d564c1eee2be4d53a0fa119cdfddfdc2a1
+## 📦 Dataset
+
+This project uses the **CIC-IDS-2017-CNNs-v.1.0** dataset available on Kaggle:
+
+🔗 [Download from Kaggle](https://www.kaggle.com/code/nolovelost/cic-ids-2017-cnns-v-1-0/input)
+
+After downloading, place the file `data_balanced_optimized.parquet` inside the `data/` folder:
+
